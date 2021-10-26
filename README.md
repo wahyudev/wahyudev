@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wahyu Budiman</h1>
 <h3 align="center">A Fullstack webdeveloper from Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel, NodeJs**
-
 - 📫 How to reach me **wahyubudimanstt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
