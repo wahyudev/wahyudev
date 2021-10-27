@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo7287
-Fork on GitHub1425
 <h1 align="center">Hi 👋, I'm Wahyu Budiman</h1>
 <h3 align="center">A Fullstack Web Developer from Indonesia</h3>
 
