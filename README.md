@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wahyu Budiman</h1>
 <h3 align="center">A Fullstack Web Developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahyudev" alt="wahyudev" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/whybdm" target="blank"><img src="https://img.shields.io/twitter/follow/whybdm?logo=twitter&style=for-the-badge" alt="whybdm" /></a> </p>
 
@@ -12,6 +12,8 @@
 - 👯 I’m also **open for remote work**
 
 - 💬 Ask me about **PHP, LARAVEL, HTML, CSS**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahyudev" alt="wahyudev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
